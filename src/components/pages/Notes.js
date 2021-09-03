@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import MasonryGrid from "../common/MasonryGrid";
-import styled from "styled-components/macro";
+import styled from "styled-components";
 // Redux imports
 import { useSelector, useDispatch } from "react-redux";
 import { notes$ } from "../../state/slices/notesSlice";

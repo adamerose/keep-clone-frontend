@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import styled, { css } from "styled-components/macro";
+import styled, { css } from "styled-components";
 import { Bug, FileText, Bell, Tag, Archive, Trash, Calculator } from "react-bootstrap-icons";
 // Redux imports
 import { useSelector, useDispatch } from "react-redux";

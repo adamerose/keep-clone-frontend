@@ -1,5 +1,5 @@
 import React from "react";
-import styled, { css } from "styled-components/macro";
+import styled, { css } from "styled-components";
 import { List } from "react-bootstrap-icons";
 // Redux imports
 import { useSelector, useDispatch } from "react-redux";

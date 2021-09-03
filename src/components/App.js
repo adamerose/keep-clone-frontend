@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link, Redirect } from "react-router-dom";
-import styled, { ThemeProvider, css } from "styled-components/macro";
+import styled, { ThemeProvider, css } from "styled-components";
 
 import { GlobalStyle } from "./styling/globalStyle";
 import { lightTheme, darkTheme } from "./styling/theme";
